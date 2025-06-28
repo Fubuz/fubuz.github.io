@@ -1,3 +1,5 @@
+Sadly, I do not have the time to update the addon - repo archived. Feel free to fork and update the addon.
+
 # Fubuz's Kodi Repository
 
 This is a repository for the [DaddyLiveHD](https://github.com/Fubuz/fubuz.github.io/tree/master/repo/plugin.video.daddylivehd) Kodi addon.
